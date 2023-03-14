@@ -1,0 +1,11 @@
+# macOS system files that should not be committed
+.DS_Store
+._*
+
+# Python bytecode files that should not be committed
+__pycache__/
+*.pyc
+
+# Virtual environment directories that should not be committed
+myenv/
+
